@@ -1,0 +1,32 @@
+# ======================
+# Python cache / bytecode
+# ======================
+__pycache__/
+*.py[cod]
+
+# ======================
+# Virtual environments
+# ======================
+venv/
+.venv/
+env/
+.env/
+
+# ======================
+# Editor / OS
+# ======================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ======================
+# Logs / temp
+# ======================
+*.log
+
+# ======================
+# Output data (generated)
+# ======================
+steam_1500_games_metrics_with_heat.csv
+*.csv
