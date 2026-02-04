@@ -45,7 +45,7 @@ A composite **heat score** is then calculated to rank games based on overall mar
 ## 📁 Project Structure
 .
 ```
-├── steam_collect_1500.py   # Main data acquisition and metric pipeline
+├── Steam Game Data Acquisition Pipeline.py   # Main data acquisition and metric pipeline
 ├── .gitignore
 └── README.md
 ```
