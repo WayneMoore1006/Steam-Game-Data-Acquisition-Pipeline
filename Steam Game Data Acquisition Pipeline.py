@@ -14,7 +14,7 @@ def fetch_steamspy_games_1500(
 ) -> List[Dict[str, Any]]:
     """
     目標：從 SteamSpy 的 request=all 抓到「剛好 1500 筆」。
-    SteamSpy 這個 all 真的不要打太兇，不然很容易被擋，所以我頁跟頁之間會睡一下。
+    SteamSpy 這個 all 真的不要打太滿，不然很容易被擋，所以我頁跟頁之間會停一下。
     """
     target = 1500
     games: List[Dict[str, Any]] = []
