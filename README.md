@@ -13,6 +13,10 @@ Multiple indicators—including ownership estimates, recent player activity, rev
 A composite **heat score** is then calculated to rank games based on overall market activity and player engagement.
 
 ---
+## Project Showcase
+<img width="473" height="203" alt="image" src="https://github.com/user-attachments/assets/4e3104ae-37fb-4513-9cb9-cb3efa121087" />
+
+---
 
 ## 🔧 Key Features
 
